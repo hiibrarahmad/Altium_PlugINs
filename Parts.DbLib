@@ -1,0 +1,57 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Parts\Parts_Database.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=2
+UpdateMode=2
+ViewMode=1
+LeftQuote=`
+RightQuote=`
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access 2007
+LibraryDatabasePath=Parts_Database.accdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=1
+SchemaName=
+LastFocusedTable=parts
+[Table1]
+SchemaName=
+TableName=parts
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=65|Description0=344|Library Ref0=122|Library Path0=212|Footprint Ref0=159|Footprint Path0=253|Footprint Ref 20=101|Footprint Path 20=176|Footprint Ref 30=101|Footprint Path 30=107|Value0=107|Voltage_Rating0=102|Power_Rating0=94|Part_Type0=72|Sub_Type0=72|Manufacturer Part Number0=160|Manufacturer0=93|Manufacturer Part Description0=344|Supplier 10=75|Supplier Part Number 10=142|Package_Case0=145|RoHS0=59|Temperature Range0=124|Temperature Coeff0=119|Dielectric0=70|Tolerance0=73|Current_Rating0=130|Comment0=107|Created By0=77|Created_Date0=109|Checked By0=81|Checked_Date0=96|Updated By0=82|Updated_Date0=109|Part_Status0=80|ComponentLink1Description0=170|ComponentLink1URL0=770|ComponentLink2Description0=170|ComponentLink2URL0=386|CAD Model0=81|Notes0=240|Sorted_Value0=91|MCN0=48|Symbol Ref0=98|Lib Report0=76|Manufacturer 20=102|Manufacturer Part Number 20=169|Manufacturer 30=102|Manufacturer Part Number 30=169|Size / Dimension0=213|Height - Seated (Max)0=133|Case Code0=77
+[FieldMap1]
+Options=FieldName=parts.ID|TableNameOnly=parts|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=parts.Description|TableNameOnly=parts|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=parts.Library Ref|TableNameOnly=parts|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=parts.Library Path|TableNameOnly=parts|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=parts.Footprint Ref|TableNameOnly=parts|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=parts.Footprint Path|TableNameOnly=parts|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=parts.Footprint Ref 2|TableNameOnly=parts|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=parts.Footprint Path 2|TableNameOnly=parts|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=parts.Footprint Ref 3|TableNameOnly=parts|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=parts.Footprint Path 3|TableNameOnly=parts|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=parts.Value|TableNameOnly=parts|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=parts.Voltage_Rating|TableNameOnly=parts|FieldNameOnly=Voltage_Rating|FieldType=1|ParameterName=Voltage_Rating|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=parts.Power_Rating|TableNameOnly=parts|FieldNameOnly=Power_Rating|FieldType=1|ParameterName=Power_Rating|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0

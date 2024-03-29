@@ -1,0 +1,177 @@
+Product Index
+Resistors
+Chip Resistor - Surface Mount
+YAGEO AC0402FR-07330KL
+
+Dark Mode
+AC Series SMD Chip Resistors
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+AC0402FR-07330KL
+DigiKey Part Number
+YAG3475TR-ND - Tape & Reel (TR)
+YAG3475CT-ND - Cut Tape (CT)
+YAG3475DKR-ND - Digi-Reel®
+Manufacturer
+YAGEO
+Manufacturer Product Number
+AC0402FR-07330KL
+Description
+RES SMD 330K OHM 1% 1/16W 0402
+Manufacturer Standard Lead Time
+18 Weeks
+Customer Reference
+Detailed Description
+330 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film
+Datasheet
+ Datasheet
+EDA/CAD Models
+AC0402FR-07330KL Models
+In-Stock: 225,422
+Can ship immediately
+QUANTITY
+All prices are in USD
+Cut Tape (CT) & Digi-Reel®
+QUANTITY
+UNIT PRICE	EXT PRICE
+1
+$0.10000	$0.10
+10
+$0.01900	$0.19
+50
+$0.01160	$0.58
+100
+$0.00950	$0.95
+500
+$0.00638	$3.19
+1,000
+$0.00544	$5.44
+5,000
+$0.00391	$19.55
+* All Digi-Reel orders will add a $7.00 reeling fee.
+Tape & Reel (TR)
+QUANTITY
+UNIT PRICE	EXT PRICE
+10,000
+$0.00343	$34.30
+20,000
+$0.00304	$60.80
+30,000
+$0.00284	$85.20
+50,000
+$0.00263	$131.50
+100,000
+$0.00237	$237.00
+Manufacturers Standard Package
+Product Attributes
+TYPE
+DESCRIPTION
+SELECT ALL
+Category
+Resistors
+Chip Resistor - Surface Mount
+Mfr
+YAGEO
+Series
+AC
+Packaging
+Tape & Reel (TR)
+Cut Tape (CT)
+Digi-Reel®
+Part Status
+Active
+Resistance
+330 kOhms
+Tolerance
+±1%
+Power (Watts)
+0.063W, 1/16W
+Composition
+Thick Film
+Features
+Automotive AEC-Q200, Moisture Resistant
+Temperature Coefficient
+±100ppm/°C
+Operating Temperature
+-55°C ~ 155°C
+Package / Case
+0402 (1005 Metric)
+Supplier Device Package
+0402
+Ratings
+AEC-Q200
+Size / Dimension
+0.039" L x 0.020" W (1.00mm x 0.50mm)
+Height - Seated (Max)
+0.015" (0.37mm)
+Number of Terminations
+2
+Failure Rate
+-
+Documents & Media
+RESOURCE TYPE	LINK
+Datasheets	
+AC Series, Automotive
+Chip Resistor Packing
+Other Related Documents	
+Chip Resistors Mounting
+Chip Resistor Marking
+Standard Resistance Value in Decade
+Product Training Modules	Chip Resistor
+Featured Product	
+AC Series Automotive Grade Chip Resistors
+AC Series Thick Film Chip Resistors
+EDA Models	AC0402FR-07330KL Models
+Environmental & Export Classifications
+ATTRIBUTE	DESCRIPTION
+RoHS Status	ROHS3 Compliant
+Moisture Sensitivity Level (MSL)	1 (Unlimited)
+REACH Status	REACH Unaffected
+ECCN	EAR99
+HTSUS	8533.21.0030
+Product Questions and Answers
+Take a look at our new Q&A!
+See what engineers are asking, ask your own questions, or help out a member of the DigiKey engineering community by participating in our new product questions and answers feature!
+
+Check it out
+Additional Resources
+ATTRIBUTE	DESCRIPTION
+Other Names	
+YAG3475CT
+YAG3475TR
+YAG3475DKR
+AC0402FR-07330KL-ND
+Standard Package	10,000
+ Need Help?  Feedback
+Stay Connected!
+Enter your email
+INFORMATION
+About DigiKey
+Marketplace
+Sell on DigiKey.com
+Careers
+Site Map
+Digital Solutions
+Newsroom
+HELP
+Help and Support
+Order Status
+Shipping Rates/Options
+Returns and Order Issues
+Tariff Information
+CONTACT US
+Chat
+1-800-344-4539
+218-681-6674
+sales@digikey.com
+Co-Browse
+ECIA Member
+This site is protected by VikingCloud's Trusted Commerce program
+FOLLOW US
+Facebook X YouTube Instagram LinkedIn
+Download on the App Store Get it on Google Play
+United StatesUnited States Copyright © 1995-2024, DigiKey. All Rights Reserved. Terms & Conditions Privacy Notice Accessibility Statement
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Do Not Sell / Do Not Share My Personal Information
+
+By clicking Accept All Cookies, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Cookie Notice
+Cookies Settings Disable All Accept All Cookies

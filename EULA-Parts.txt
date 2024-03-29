@@ -1,0 +1,37 @@
+END USER LICENSE AGREEMENT
+Parts software Authored by Randy Clemmons
+
+Selling or Distributing Software or Software Content
+Only the Author may distribute, sell, or exchange this Software in part or in whole,  this includes Application Keys.
+
+Upgrades & Previous Versions
+The Author will determine, at its sole discretion what options, features, fixes, updates, or any other changes will be applied and made available as free updates, or paid upgrades. The Author may add or remove features of the program in future releases.
+
+The Author is not responsible to provide you earlier versions of the Software for which you purchased an Application Key.
+
+It is your responsibility to backup all related Application and Data Files including Application Keys before installing later versions of the Software.
+
+The Application Key for Parts is a unique single-user license. The license is non transferable. The license.lic file must be stored in the same folder as the Parts Front-end application on the user's machine. The Front-end software and Application Key license can be transferred to a newer PC, provided the computer is being used by the user named in the license. 
+
+Refunds
+No refunds will be made after Software Application Keys are provided.  An email with the Application Key to the email address you provide shall satisfy this requirement.  
+
+Limited Software Product Warranty
+The Author  makes no warranty that the Software Product will meet your requirements or operate under your specific conditions of use. The Author makes no warranty that operation of the Software Product will be secure, error free, or free from interruption.
+ 
+YOU MUST DETERMINE WHETHER THE SOFTWARE PRODUCT SUFFICIENTLY MEETS YOUR REQUIREMENTS FOR SECURITY AND UNINTERRUPTABILITY. YOU BEAR SOLE RESPONSIBILITY AND ALL LIABILITY FOR ANY LOSS INCURRED DUE TO FAILURE OF THE SOFTWARE PRODUCT TO MEET YOUR REQUIREMENTS. THE AUTHOR WILL NOT, UNDER ANY CIRCUMSTANCES, BE RESPONSIBLE OR LIABLE FOR THE LOSS OF DATA ON ANY COMPUTER OR INFORMATION STORAGE DEVICE.
+
+UNDER NO CIRCUMSTANCES SHALL THE AUTHOR, ITS DIRECTORS, OFFICERS, EMPLOYEES OR AGENTS BE LIABLE TO YOU OR ANY OTHER PARTY FOR INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, PUNITIVE, OR EXEMPLARY DAMAGES OF ANY KIND (INCLUDING LOST REVENUES OR PROFITS OR LOSS OF BUSINESS) RESULTING FROM THIS AGREEMENT, OR FROM THE FURNISHING, PERFORMANCE, INSTALLATION, OR USE OF THE SOFTWARE PRODUCT, WHETHER DUE TO A BREACH OF CONTRACT, BREACH OF WARRANTY, OR THE NEGLIGENCE OF THE AUTHOR OR ANY OTHER PARTY, EVEN IF THE AUTHOR IS ADVISED BEFOREHAND OF THE POSSIBILITY OF SUCH DAMAGES. TO THE EXTENT THAT THE APPLICABLE JURISDICTION LIMITS THE AUTHOR'S ABILITY TO DISCLAIM ANY IMPLIED WARRANTIES, THIS DISCLAIMER SHALL BE EFFECTIVE TO THE MAXIMUM EXTENT PERMITTED.
+
+Limitation of Remedies and Damages
+Any claim must be made within the applicable warranty period. All warranties cover only defects arising under normal use and do not include malfunctions or failure resulting from misuse, abuse, neglect, alteration, problems with electrical power, acts of nature, unusual temperatures or humidity, improper installation, or damage determined by the Author to have been caused by you. All limited warranties on the Software Product are granted only to you and are non-transferable. You agree to indemnify and hold the Author harmless from all claims, judgments, liabilities, expenses, or costs arising from your breach of this Agreement and/or acts or omissions.
+
+Severability
+If any provision of this Agreement shall be held to be invalid or unenforceable, the remainder of this Agreement shall remain in full force and effect. To the extent any express or implied restrictions are not permitted by applicable laws, these express or implied restrictions shall remain in force and effect to the maximum extent permitted by such applicable laws.
+
+Your remedy for a breach of this Agreement or of any warranty included in this Agreement is the correction or replacement of the Software Product. Selection of whether to correct or replace shall be solely at the discretion of the Author.  The Author reserves the right to substitute a functionally equivalent copy of the Software Product as a replacement.
+
+This EULA was originally created at RocketLawyer.com and modified by the Author.
+
+Copyright 2013-2024 Randy Clemmons (The Author).
+

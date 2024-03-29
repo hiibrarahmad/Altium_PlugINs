@@ -1,0 +1,1 @@
+This Folder may be used to store CAD Model Files *.Step, *.DXF, etc
